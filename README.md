@@ -1,5 +1,6 @@
 # AI-powered-Ticket-Management-System
 An AI-powered ticket management system that automatically classifies, responds to, and routes support tickets.
+
 <img width="1661" height="934" alt="image" src="https://github.com/user-attachments/assets/2e47b099-01e1-46ea-800d-17238f926bd6" />
 
 ## Features
