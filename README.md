@@ -38,6 +38,8 @@ e2e/      - Playwright E2E tests
 - [Bun](https://bun.sh) (runtime and package manager)
 - PostgreSQL
 
+<img width="1662" height="936" alt="image" src="https://github.com/user-attachments/assets/c1da9b81-4029-4f0d-8ee0-e9450d97e7ce" />
+
 ## Getting Started
 
 1. **Install dependencies**
